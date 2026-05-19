@@ -1,4 +1,3 @@
-"""High-level code review suggestions."""
 
 from __future__ import annotations
 
