@@ -1,4 +1,3 @@
-"""Generate simple pytest unit tests for a Python function."""
 
 from __future__ import annotations
 
