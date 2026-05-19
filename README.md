@@ -1,0 +1,1 @@
+An AI-powered Software Engineering Assistant that helps developers analyze repositories, generate documentation, understand codebases, and automate development workflows using LLMs and agentic AI architecture.
