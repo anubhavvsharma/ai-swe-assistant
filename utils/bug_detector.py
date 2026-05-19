@@ -1,4 +1,3 @@
-"""Simple static checks: syntax, unused names (Python), and light style hints."""
 
 from __future__ import annotations
 
