@@ -1,4 +1,4 @@
-"""Chunking, embedding, and retrieval QA over repository documents."""
+
 
 from __future__ import annotations
 
