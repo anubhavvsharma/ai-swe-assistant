@@ -1,4 +1,3 @@
-"""Application settings and shared Google Gemini (LangChain) clients."""
 
 from __future__ import annotations
 
