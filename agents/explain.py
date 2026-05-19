@@ -1,4 +1,3 @@
-"""Beginner-friendly code explanations via LLM."""
 
 from __future__ import annotations
 
