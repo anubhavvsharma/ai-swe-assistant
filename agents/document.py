@@ -1,4 +1,3 @@
-"""Generate Markdown documentation from repository context."""
 
 from __future__ import annotations
 
