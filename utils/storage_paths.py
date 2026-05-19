@@ -1,16 +1,8 @@
-"""Local workspace for ZIP uploads and git clones.
-
-Set ``ASSISTANT_DATA_DIR`` in the environment or ``.env`` to override the root.
-Default keeps data on the F: drive instead of ``%TEMP%``.
-"""
-
-from __future__ import annotations
-
 import os
 import tempfile
 from pathlib import Path
 
-# Default: dedicated folder on F: (change via ASSISTANT_DATA_DIR)
+
 _DEFAULT_ROOT = Path("F:/ai_se_assistant_data")
 
 
