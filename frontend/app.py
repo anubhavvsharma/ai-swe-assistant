@@ -1,4 +1,3 @@
-"""Streamlit dashboard for the AI Software Engineering Assistant."""
 
 from __future__ import annotations
 
