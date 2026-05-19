@@ -1,4 +1,3 @@
-"""Thin wrapper for RAG question answering."""
 
 from __future__ import annotations
 
