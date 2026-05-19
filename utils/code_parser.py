@@ -1,4 +1,4 @@
-"""Extract functions, classes, and imports from source files (Python + basic JS/TS)."""
+
 
 from __future__ import annotations
 
