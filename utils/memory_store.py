@@ -1,4 +1,3 @@
-"""Session-scoped vector memory (Chroma) + optional chat history text."""
 
 from __future__ import annotations
 
