@@ -1,4 +1,3 @@
-"""Clone public Git repositories into a local workspace."""
 
 from __future__ import annotations
 
