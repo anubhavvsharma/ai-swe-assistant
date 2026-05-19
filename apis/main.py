@@ -1,8 +1,4 @@
-"""REST API exposing clone, RAG, explain, docs, review, tests, and bug scan.
 
-Heavy imports (LangChain, Chroma, Gemini) are deferred until a route runs so
-``uvicorn apis.main:app`` starts quickly instead of blocking for minutes.
-"""
 
 from __future__ import annotations
 
